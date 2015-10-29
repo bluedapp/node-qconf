@@ -1,9 +1,9 @@
 # node-qconf
 Qihoo360 QConf(https://github.com/Qihoo360/QConf) Node.js addon.
 
--[![NPM version][npm-image]][npm-url]
--[![NPM downloads][downloads-image]][npm-url]
--[![Node.js dependencies][david-image]][david-url]
+[![NPM version][npm-image]][npm-url]
+[![NPM downloads][downloads-image]][npm-url]
+[![Node.js dependencies][david-image]][david-url]
 
 ## Installation
 
