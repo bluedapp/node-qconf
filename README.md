@@ -38,5 +38,5 @@ console.log('getHost:', qconf.getHost('/backend/umem/users'))
 [npm-image]: https://img.shields.io/npm/v/node-qconf.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/node-qconf
 [downloads-image]: https://img.shields.io/npm/dm/node-qconf.svg?style=flat-square
-[david-image]: https://img.shields.io/david/demohi/node-qconf.svg?style=flat-square
-[david-url]: https://david-dm.org/demohi/node-qconf
+[david-image]: https://img.shields.io/david/bluedapp/node-qconf.svg?style=flat-square
+[david-url]: https://david-dm.org/bluedapp/node-qconf
