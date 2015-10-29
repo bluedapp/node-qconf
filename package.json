@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/bluedapp/node-qconf.git"
   },
+  "author": "mdemo",
   "keywords": [
     "qconf",
     "node-qconf"
