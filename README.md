@@ -16,7 +16,7 @@ Notes:
 * You need set the Environment Variable QCONF_INSTALL before install this addon.
 
 ```
-$ export QCONF_INSTALL=/home/work/local/qconf
+$ export QCONF_INSTALL=/home/work/local/qconf(For MacOS use: export QCONF_INSTALL=/usr/local/qconf)
 $ npm install node-qconf --save
 ```
 
