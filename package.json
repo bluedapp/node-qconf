@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/bluedapp/node-qconf",
   "scripts": {
-    "test": "node test.js",
-    "install": "if [ '$(uname)'=='Darwin' ]; then (cd ./node_modules/node-qconf/build/Release/; install_name_tool -change libqconf.dylib /usr/local/qconf/lib/libqconf.dylib ./qconf.node) ;fi"
+    "test": "node test.js"
   },
   "gypfile": true
 }
