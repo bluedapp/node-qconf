@@ -1,6 +1,6 @@
 {
   "name": "node-qconf",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "QConf Node.js Addon",
   "main": "qconf.js",
   "dependencies": {
