@@ -3,10 +3,7 @@
   "version": "0.3.1",
   "description": "QConf Node.js Addon",
   "main": "qconf.js",
-  "dependencies": {
-    "bindings": "~1.2.1",
-    "nan": "^2.0.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/bluedapp/node-qconf.git"
