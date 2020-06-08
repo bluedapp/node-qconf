@@ -1,3 +1,1 @@
-var qconf = require('bindings')('qconf')
-
-module.exports = qconf;
+module.exports = require('./build/Release/qconf.node');

@@ -1,12 +1,9 @@
 {
   "name": "node-qconf",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "QConf Node.js Addon",
   "main": "qconf.js",
-  "dependencies": {
-    "bindings": "~1.2.1",
-    "nan": "^2.0.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/bluedapp/node-qconf.git"
@@ -20,9 +17,6 @@
   "bugs": {
     "url": "https://github.com/bluedapp/node-qconf/issues"
   },
-  "homepage": "https://github.com/bluedapp/node-qconf",
-  "scripts": {
-    "test": "node test.js"
-  },
+  "scripts": {},
   "gypfile": true
 }

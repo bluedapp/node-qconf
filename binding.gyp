@@ -4,7 +4,7 @@
       "target_name": "qconf",
       "sources": [ "qconf.cc" ],
       "cflags!": ["-fno-exceptions"],
-      "cflags_cc!": ["-fno-exceptions"],
+      "cflags_cc!": ["-fno-exceptions","--no-warn-unused-cli"],
       "libraries": ["-lqconf"],
       "link_settings": {
         "libraries": ["-L<!(echo $QCONF_INSTALL)/lib"]
