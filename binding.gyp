@@ -3,8 +3,8 @@
     {
       "target_name": "qconf",
       "sources": [ "qconf.cc" ],
-      "cflags!": ["-fno-exceptions"],
-      "cflags_cc!": ["-fno-exceptions","--no-warn-unused-cli"],
+      "cflags!": ["-fno-exceptions","-Wno-unused-result"],
+      "cflags_cc!": ["-fno-exceptions","-Wno-unused-result"],
       "libraries": ["-lqconf"],
       "link_settings": {
         "libraries": ["-L<!(echo $QCONF_INSTALL)/lib"]
